@@ -146,7 +146,7 @@ li {
   position: absolute;
   right: 0px;
   top: 18px;
-  content: url(/images/open-right.png);
+  content: url(images/open-right.png);
   color: #ffffff;
   transition: all 0.5s;
 }
